@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnLoading"
+        android:text="loading"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnArcMenu"
+        android:text="show ArcMene"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSlide"
+        android:text="slide menu"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnRestGesture"
+        android:text="Reset gesture lock view"
+        />
+    <com.example.richardlai.myview.myview.GestureLockViewGroup
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/glvgTest"
+        android:background="#F2F2F7"
+        android:gravity="center_vertical"
+        app:count="4"
+        app:tryTimes="3"
+        android:visibility="gone"
+        >
+    </com.example.richardlai.myview.myview.GestureLockViewGroup>
+
+
+</LinearLayout>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+       自定义style
+      <attr name="layout_height" format="dimension">
+             <enum name="fill_parent" value="-1" />
+             <enum name="match_parent" value="-1" />
+             <enum name="wrap_content" value="-2" />
+     </attr>
+         系统中原有的match_parent的值好像就是-1
+       -->
+
+    <attr name="testAttr" format="integer" />
+
+    <attr name="firstColor" format="color"/>
+    <attr name="secondColor" format="color"/>
+    <attr name="circleWidth" format="dimension"/>
+    <attr name="speed" format="integer"/>
+    <attr name="doLoops" format="boolean"/>
+    <attr name="textIsVisible" format="boolean"/>
+
+    <attr name="titleText" format="string" />
+    <attr name="titleTextSize" format="dimension" />
+
+    <attr name="color_no_finger_inner_circle" format="color" />
+    <attr name="color_no_finger_outer_circle" format="color" />
+    <attr name="color_finger_on" format="color" />
+    <attr name="color_finger_up" format="color" />
+    <attr name="color_background" format="color"/>
+    <attr name="count" format="integer" />
+    <attr name="tryTimes" format="integer" />
+
+    <declare-styleable name="CustomProgress">
+            <attr name="firstColor"/>
+            <attr name="secondColor"/>
+            <attr name="circleWidth"/>
+            <attr name="speed"/>
+            <attr name="android:textSize"/>
+            <attr name="doLoops"/>
+            <attr name="textIsVisible"/>
+            <attr name="android:textColor"/>
+    </declare-styleable>
+
+    <declare-styleable name="customTitleView">
+        <attr name="titleText" />
+        <attr name="titleTextColor" />
+        <attr name="titleTextSize" />
+    </declare-styleable>
+
+    <attr name="position">
+        <enum name="left_top" value="0" />
+        <enum name="right_top" value="1" />
+        <enum name="right_bottom" value="2" />
+        <enum name="left_bottom" value="3" />
+    </attr>
+    <attr name="radius" format="dimension"/>
+
+    <declare-styleable name="ArcMenu">
+        <attr name="position"/>
+        <attr name="radius" />
+    </declare-styleable>
+
+    <declare-styleable name="GestureLockViewGroup">
+        <attr name="color_no_finger_inner_circle" />
+        <attr name="color_no_finger_outer_circle" />
+        <attr name="color_finger_on" />
+        <attr name="color_finger_up" />
+        <attr name="color_background"/>
+        <attr name="count" />
+        <attr name="tryTimes" />
+    </declare-styleable>
+    
+    <declare-styleable name="StatusRecordView">
+        <attr name="statusProgressDefaultColor" format="color"/>
+        <attr name="statusProgressSuccessColor" format="color"/>
+        <attr name="statusProgressFailColor" format="color"/>
+    </declare-styleable>
+</resources>

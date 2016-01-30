@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\AndroidSDk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\CSDN\arcmenu\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-3461b9eb1203478f4ed8a94fefe9aa37185eff4e.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\arcmenu\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="010ee9e87a286afcaeaed368dcf829e42d0aa2a0">
+        <dex dex="D:\CSDN\arcmenu\app\build\intermediates\pre-dexed\debug\classes-aecbdca2c016f441419fae388e83def1f9262d42.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\arcmenu\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="D:\CSDN\arcmenu\app\build\intermediates\pre-dexed\debug\classes-7ad3a7260b282189bdbfa2f646bd92fe590342e5.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\arcmenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\CSDN\arcmenu\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f97c7011fe8625e8cf0c5f7ed8b1ee2fbd2512b4.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\arcmenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\CSDN\arcmenu\app\build\intermediates\pre-dexed\debug\classes-664649f4b8209a2bcc21373486a147d77740c434.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\arcmenu\app\build\intermediates\exploded-aar\se.emilsjolander\stickylistheaders\2.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8665c9c7f64dd37feeb7318dd1c2cfd16270748f">
+        <dex dex="D:\CSDN\arcmenu\app\build\intermediates\pre-dexed\debug\classes-e512c530abc26b879aa1125986130ab99843571e.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\arcmenu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\CSDN\arcmenu\app\build\intermediates\pre-dexed\debug\classes-7f568b66c3ce59fd9c065dd2f441bc5564eabbcf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Richard.Lai\.gradle\caches\modules-2\files-2.1\org.androidannotations\androidannotations-api\3.3.2\7d6149d856b880bbd676047aacb8446a758fbbdb\androidannotations-api-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7d6149d856b880bbd676047aacb8446a758fbbdb">
+        <dex dex="D:\CSDN\arcmenu\app\build\intermediates\pre-dexed\debug\androidannotations-api-3.3.2-6a0eebf8af66745326013ecdb2500acb7322ac87.jar" />
+    </item>
+
+</items>
